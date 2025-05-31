@@ -1,0 +1,3 @@
+Hello Batch 25a
+This is text file
+Script was added
